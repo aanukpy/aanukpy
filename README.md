@@ -5,6 +5,10 @@
 
 - 🌱 I’m currently learning **web scraping,Advanced python**
 
+- 👯 I’m interested in **build my own websites**
+
+- 🌼 I always like to learn [something new](something new)
+
 - 📫 How to reach me **anandik44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
