@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm @anandikpy</h1>
-<h3 align="center">Full-stack devoloper</h3>
 
-- 🔭 I’m a student, devoloper
+
+- 🔭 I’m a **student, developer**
 
 - 🌱 I’m currently learning **web scraping,Advanced python**
 
