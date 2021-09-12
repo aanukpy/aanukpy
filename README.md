@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm @anandikpy</h1>
 <h3 align="center">Full-stack devoloper</h3>
 
-- 🔭 I’m a student, **devoloper**
+- 🔭 I’m a student, devoloper
 
 - 🌱 I’m currently learning **web scraping,Advanced python**
 
 - 👯 I’m interested in **build my own websites**
 
-- 🌼 I always like to learn [something new](something new)
+- 🌼 I always like to learn something new
 
 - 📫 How to reach me **anandik44@gmail.com**
 
