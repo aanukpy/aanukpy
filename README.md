@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anandikpy
-- 👀 I’m interested in build my own webistes
+- 👀 I’m interested in build my own websites
 - 🌱 I’m currently learning web scraping,Advanced python
 - 🌼 I always like to learn something new
 - 📫 How to reach me www.linkedin.com/in/anandi-kpy
