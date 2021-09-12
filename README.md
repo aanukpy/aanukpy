@@ -5,6 +5,4 @@
 - 🌼 I always like to learn something new
 
 ### Connect with me:
- 
-[<img align="left" alt="anandi-kpy| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][www.linkedin.com/in/anandi-kpy
-]
+ <a class="footer-link" href="https://www.linkedin.com/in/anandi-kpy">
