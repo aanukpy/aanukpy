@@ -3,9 +3,9 @@
 
 - 🔭 I’m a **student, developer**
 
-- 🌱 I’m currently learning **web scraping,Advanced python**
+- 🌱 I’m currently learning **web scraping and **
 
-- 👯 I’m interested in **build my own websites**
+- 👯 I like to **build my own webapps**
 
 - 🌼 I always like to learn something new
 
