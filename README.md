@@ -3,7 +3,7 @@
 
 - 🔭 I’m a **student, developer**
 
-- 🌱 I’m currently learning **web scraping and **
+- 🌱 I’m currently learning **web scraping and React**
 
 - 👯 I like to **build my own webapps**
 
