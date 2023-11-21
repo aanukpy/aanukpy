@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm @anandikpy</h1>
 
 
-- 🔭 I’m a **student, developer**
+- 🔭 I’m a **Developer**
 
-- 🌱 I’m currently learning **web scraping and React**
+- 🌱 I’m currently Working **Front end Development**
 
 - 👯 I like to **build my own webapps**
 
